@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/Aplicacao-Balanco-de-Contas/static/js/main.c41253ef.js",
+    "main.js": "/Aplicacao-Balanco-de-Contas/static/js/main.98d894b5.js",
     "static/media/logo.svg": "/Aplicacao-Balanco-de-Contas/static/media/logo.feef76739446479095a5ead411ac71d2.svg",
     "static/media/totalImg.svg": "/Aplicacao-Balanco-de-Contas/static/media/totalImg.efc003fec6ccd094143486647c83e038.svg",
     "static/media/saidaImg.svg": "/Aplicacao-Balanco-de-Contas/static/media/saidaImg.6eb96d3079777422e5bd5deaa688a46e.svg",
     "static/media/entradaImg.svg": "/Aplicacao-Balanco-de-Contas/static/media/entradaImg.d58effe2f7ca5d17f64c8350e5fa2fe2.svg",
     "index.html": "/Aplicacao-Balanco-de-Contas/index.html",
     "static/media/fecharImg.svg": "/Aplicacao-Balanco-de-Contas/static/media/fecharImg.3e141cd0857f961999baa367bad49474.svg",
-    "main.c41253ef.js.map": "/Aplicacao-Balanco-de-Contas/static/js/main.c41253ef.js.map"
+    "main.98d894b5.js.map": "/Aplicacao-Balanco-de-Contas/static/js/main.98d894b5.js.map"
   },
   "entrypoints": [
-    "static/js/main.c41253ef.js"
+    "static/js/main.98d894b5.js"
   ]
 }
