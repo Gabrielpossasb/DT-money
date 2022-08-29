@@ -41,6 +41,7 @@ export function NewTransactionModal({ isOpen, onRequestClose }: NewTransactionMo
       setAmount(0);
       setType('deposit');
       onRequestClose();
+      console.log('clicado');
    }
 
    return (
