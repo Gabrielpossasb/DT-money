@@ -8,7 +8,7 @@
 
 ## :computer: Tecnlogias :
 
-- Next
+- Create React App
 - Vercel
 
 ## :rocket: Bibliotecas :
