@@ -2,7 +2,7 @@
   "name": "dtmoney",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gabrielpossasb.github.io/Aplicacao-Balanco-de-Contas/",
+  "homepage": "https://aplicacao-balanco-de-contas.vercel.app/",
   "dependencies": {
     "@types/react-modal": "^3.13.1",
     "axios": "^0.27.2",
