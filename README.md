@@ -3,7 +3,7 @@
       
    #### Uma aplicação para gerenciar seu dinheiro, utilizando Axios junto com Miraje.js ####
 
-   :link: <https://gabrielpossasb.github.io/Aplicacao-Balanco-de-Contas/> :link:
+   :link: <https://aplicacao-balanco-de-contas.vercel.app/> :link:
 </div>
 
 ## :computer: Tecnlogias :
