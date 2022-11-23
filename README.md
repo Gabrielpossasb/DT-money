@@ -10,6 +10,7 @@
 
 - Create React App
 - Vercel
+- Figma
 
 ## :rocket: Bibliotecas :
 
@@ -18,4 +19,3 @@
 - Styled-components
 - Axios
 - Miraje.js
-- Figma
