@@ -1,7 +1,7 @@
 <div align='center'>
    <img height='140px' src='./public/Logo-dtmoney.svg' alt='logo para github'/>
       
-   #### Uma aplicação para gerenciar seu dinheiro, utilizando Axios junto com Miraje.js ####
+   #### Uma aplicação para gerenciar seu dinheiro, utilizando Axios junto com Mirage.js ####
 
    :link: <https://aplicacao-balanco-de-contas.vercel.app/> :link:
 </div>
@@ -18,4 +18,4 @@
 - TypeScript
 - Styled-components
 - Axios
-- Miraje.js
+- Mirage.js
